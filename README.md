@@ -42,13 +42,13 @@
 
 
 <br/>
-
+<!--
 ### Github Badges:
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
 <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a>
 <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
-
+-->
 <br/>
 
 ### Trophies:
@@ -60,6 +60,7 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api?username=ShifatShakhawat&show_icons=true)](https://github.com/ShifatShakhawat)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShifatShakhawat&show_icons=ture)](https://git.io/streak-stats)
 
+<!--
 <p align="center'> 
           
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShifatShakhawat&layout=compact&theme=light)](https://github.com/ShifatShakhawat/github-readme-stats) 
@@ -69,12 +70,12 @@
   <a href="https://github.com/ShifatShakhawat/github-readme-activity-graph">
     <img src="https://activity-graph.herokuapp.com/graph?username=ShifatShakhawat&bg_color=blue&hide_border=true">
   </a> 
-                                                                                                          
+                                                                                                    
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&width=auto&height=80&section=footer"/>
 </p>
-
+-->
 ---
 [website]: https://www.shifatshakhawat.me/
 [twitter]: https://twitter.com/sh1fat/
