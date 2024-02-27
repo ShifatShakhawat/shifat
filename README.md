@@ -1,7 +1,7 @@
 ### Hi there, I'm **Shifat** 👋
 
 <p align="center">
-    <img src="https://github.com/ShifatShakhawat/ShifatShakhawat/blob/main/gitartwork.svg" />
+    <img src="https://github.com/ShifatShakhawat/ShifatShakhawat/blob/main/Shifat.svg" />
 </p> 
 
 [![Website](https://img.shields.io/website?label=www.shifatshakhawat.me&style=for-the-badge&url=https%3A%2F%2Fwww.shifatshakhawat.me)](https://www.shifatshakhawat.me)
