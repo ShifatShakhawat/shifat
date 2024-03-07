@@ -1,4 +1,4 @@
-### Hi there, I'm **Shifat** 👋
+### Hi there, I'm **Shifat**
 
 <p align="center">
     <img src="https://github.com/ShifatShakhawat/ShifatShakhawat/blob/main/Shifat.svg" />
@@ -11,12 +11,9 @@
 
 - 📫 How to reach me - **hello@shifatshakhawat.me**
 - 🔭 I’m currently working on hard and soft skills👩‍💻
-- 🌱 I’m currently practicing for SAT exam😤
 - 🥅 2026 Goal: Completing Undergraduation😵
 - 💬 Ask me about anything
-- 📫 How to reach me: Anywhere
 - 😄 Pronouns: He/Him🧍
-- ⚡ Fun fact: I like to play drums while studying with pen on the bench 🥁
 
 
 ### Socials:
