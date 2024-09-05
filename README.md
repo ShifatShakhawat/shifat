@@ -4,12 +4,12 @@
     <img src="https://github.com/ShifatShakhawat/ShifatShakhawat/blob/main/Shifat.svg" />
 </p> 
 
-[![Website](https://img.shields.io/website?label=www.shifatshakhawat.me&style=for-the-badge&url=https%3A%2F%2Fwww.shifatshakhawat.me)](https://www.shifatshakhawat.me)
+[![Website](https://img.shields.io/website?label=www.shifatshakhawat.me&style=for-the-badge&url=https%3A%2F%2Fwww.shifat.me)](https://www.shifat.me)
 [![Twitter Follow](https://img.shields.io/twitter/follow/sh1fat?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fshifat&screen_name=shifat) <img src="https://komarev.com/ghpvc/?username=ShifatShakhawat" height="28 rem"></img>
 
 ### I'm a Student, Tech Enthusiast and Entreprenuer !
 
-- 📫 How to reach me - **hello@shifatshakhawat.me**
+- 📫 How to reach me - **hello@shifat.me**
 - 🔭 I’m currently working on hard and soft skills👩‍💻
 - 🥅 2026 Goal: Completing Undergraduation😵
 - 💬 Ask me about anything
@@ -77,7 +77,7 @@
 </p>
 -->
 ---
-[website]: https://www.shifatshakhawat.me/
+[website]: https://www.shifat.me/
 [twitter]: https://twitter.com/sh1fat/
 [youtube]: https://www.youtube.com/@ShifatShakhawat
 [instagram]: https://instagram.com/shitrology/
