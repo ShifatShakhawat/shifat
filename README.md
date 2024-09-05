@@ -4,7 +4,7 @@
     <img src="https://github.com/ShifatShakhawat/ShifatShakhawat/blob/main/Shifat.svg" />
 </p> 
 
-[![Website](https://img.shields.io/website?label=www.shifatshakhawat.me&style=for-the-badge&url=https%3A%2F%2Fwww.shifat.me)](https://www.shifat.me)
+[![Website](https://img.shields.io/website?label=www.shifat.me&style=for-the-badge&url=https%3A%2F%2Fwww.shifat.me)](https://www.shifat.me)
 [![Twitter Follow](https://img.shields.io/twitter/follow/sh1fat?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fshifat&screen_name=shifat) <img src="https://komarev.com/ghpvc/?username=ShifatShakhawat" height="28 rem"></img>
 
 ### I'm a Student, Tech Enthusiast and Entreprenuer !
