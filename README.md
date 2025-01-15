@@ -20,7 +20,7 @@
 - 😄 Pronouns: He/Him🧍
 
 
-### Socials:
+<h2 align="left"> Socials: </h2>
 
 [<img align="left" alt="shifatshakhawat.me" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="shifat | YouTube" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
@@ -34,7 +34,7 @@
 [<img align="left" alt="shifat | Google" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/google.svg" >][Google Developer]
 <br/>
 
-### Languages and Tools:
+<h2 align="left"> Languages and Tools: </h2>
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -48,26 +48,31 @@
 <br/>
 
 
-### Trophies:
+# Trophies: 
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=ShifatShakhawat&show_icons=true)](https://github.com/ShifatShakhawat/github-profile-trophy)
 
 
-### 📈 My GitHub Stats:
+<h2 align="left">📈 My GitHub Stats: </h2>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api?username=ShifatShakhawat&show_icons=true)](https://github.com/ShifatShakhawat)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShifatShakhawat&show_icons=ture)](https://git.io/streak-stats)
-
-
-<p align="center'> 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api?username=ShifatShakhawat&layout=compact&theme=radical&show_icons=true)](https://github.com/ShifatShakhawat) [![GitHub Streak](https://github-readme-streak-stats-nine-khaki.vercel.app?user=ShifatShakhawat&theme=radical)](https://git.io/streak-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShifatShakhawat&layout=compact&theme=radical)](https://github.com/ShifatShakhawat/github-readme-stats) 
           
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShifatShakhawat&layout=compact&theme=light)](https://github.com/ShifatShakhawat/github-readme-stats) 
-          
- </p>
 
 <a href="https://github.com/ShifatShakhawat/github-readme-activity-graph">
     <img src="https://activity-graph.herokuapp.com/graph?username=ShifatShakhawat&bg_color=blue&hide_border=true">
 </a> 
                                                                                                     
+<h2 align="left">📈 GitHub Impact: </h2>
+	  
+  
+
+![Snake animation](https://github.com/ShifatShakhawat/ShifatShakhawat/blob/output/github-contribution-grid-snake.svg)
+
+<p align="center">
+  <img alt="Visitor Badge" src="https://visitor-badge.laobi.icu/badge?page_id=ShifatShakhawat.ShifatShakhawat">
+</p>
+
+<h6 align="center">This README is dynamically updated every 6 hours using GitHub actions</h6>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&width=auto&height=80&section=footer"/>
