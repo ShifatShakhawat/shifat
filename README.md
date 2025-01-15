@@ -59,19 +59,19 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShifatShakhawat&layout=compact&theme=radical&card_width=450&card_height=195)](https://github.com/ShifatShakhawat/github-readme-stats) 
 
 
-[![Shifat's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ShifatShakhawat&theme=github-compact)](https://github.com/ShifatShakhawat/github-readme-activity-graph)
+
                                                                                                     
 # 📈 GitHub Impact:
-	  
-  
-
-![Snake animation](https://github.com/ShifatShakhawat/ShifatShakhawat/blob/output/github-contribution-grid-snake.svg)
+[![Shifat's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ShifatShakhawat&theme=github-compact)](https://github.com/ShifatShakhawat/github-readme-activity-graph)
+<p align="center">
+  <img src="https://github.com/ShifatShakhawat/ShifatShakhawat/blob/output/github-contribution-grid-snake-dark.svg">
+</p>
 
 <p align="center">
   <img alt="Visitor Badge" src="https://visitor-badge.laobi.icu/badge?page_id=ShifatShakhawat.ShifatShakhawat">
 </p>
 
-<h6 align="center">This README is dynamically updated every 6 hours using GitHub actions</h6>
+<h6 align="center">This README is dynamically updated every 12 hours using GitHub actions</h6>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&width=auto&height=80&section=footer"/>
