@@ -55,10 +55,13 @@
 
 <h2 align="left">📈 My GitHub Stats: </h2>
 
+<p align="center">
+	
 [![ReadMe Card](https://github-readme-stats.vercel.app/api?username=ShifatShakhawat&layout=compact&theme=radical&show_icons=true&card_width=450&card_height=195)](https://github.com/ShifatShakhawat) 
 [![GitHub Streak](https://github-readme-streak-stats-nine-khaki.vercel.app?user=ShifatShakhawat&theme=radical&card_width=450&card_height=195)](https://git.io/streak-stats) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShifatShakhawat&layout=compact&theme=radical&card_width=450&card_height=195)](https://github.com/ShifatShakhawat/github-readme-stats) 
-          
+
+</p>
 
 <a href="https://github.com/ShifatShakhawat/github-readme-activity-graph">
     <img src="https://activity-graph.herokuapp.com/graph?username=ShifatShakhawat&bg_color=blue&hide_border=true">
