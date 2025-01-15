@@ -1,7 +1,7 @@
 ### Hi there, I'm **Shifat**
 
 <p align="center">
-    <img src="https://github.com/ShifatShakhawat/ShifatShakhawat/blob/main/Shifat.svg" />
+    <img src="https://github.com/ShifatShakhawat/ShifatShakhawat/blob/main/Shifat.svg"/>
 </p> 
 
 
@@ -20,7 +20,7 @@
 - 😄 Pronouns: He/Him🧍
 
 
-<h2 align="left"> Socials: </h2>
+# Socials:
 
 [<img align="left" alt="shifatshakhawat.me" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="shifat | YouTube" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
@@ -34,7 +34,7 @@
 [<img align="left" alt="shifat | Google" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/google.svg" >][Google Developer]
 <br/>
 
-<h2 align="left"> Languages and Tools: </h2>
+# Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -53,21 +53,15 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=ShifatShakhawat&show_icons=true)](https://github.com/ShifatShakhawat/github-profile-trophy)
 
 
-<h2 align="left">📈 My GitHub Stats: </h2>
-
-<p align="center">
-	
+# 📈 My GitHub Stats:
 [![ReadMe Card](https://github-readme-stats.vercel.app/api?username=ShifatShakhawat&layout=compact&theme=radical&show_icons=true&card_width=450&card_height=195)](https://github.com/ShifatShakhawat) 
 [![GitHub Streak](https://github-readme-streak-stats-nine-khaki.vercel.app?user=ShifatShakhawat&theme=radical&card_width=450&card_height=195)](https://git.io/streak-stats) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShifatShakhawat&layout=compact&theme=radical&card_width=450&card_height=195)](https://github.com/ShifatShakhawat/github-readme-stats) 
 
-</p>
 
-<a href="https://github.com/ShifatShakhawat/github-readme-activity-graph">
-    <img src="https://activity-graph.herokuapp.com/graph?username=ShifatShakhawat&bg_color=blue&hide_border=true">
-</a> 
+[![Shifat's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ShifatShakhawat&theme=github-compact)](https://github.com/ShifatShakhawat/github-readme-activity-graph)
                                                                                                     
-<h2 align="left">📈 GitHub Impact: </h2>
+# 📈 GitHub Impact:
 	  
   
 
