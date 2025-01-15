@@ -11,7 +11,7 @@
 ### I'm a
 <p align="left">
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
-  <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Student;Tech+Enthusiast;Entreprenuer&left=true"></a></p>
+  <img src="https://readme-typing-svg.herokuapp.com?color=3339F7FF&width=380&height=28&lines=Student;Tech+Enthusiast;Entreprenuer&left=true"></a></p>
 
 - 📫 How to reach me - **hello@shifat.me**
 - 🔭 I’m currently working on hard and soft skills👩‍💻
